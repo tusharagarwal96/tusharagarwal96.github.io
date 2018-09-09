@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tushar Agarwal</title>
+    <link>https://tusharagarwal96.github.io/home/</link>
+    <description>Recent content in Homes on Tushar Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://tusharagarwal96.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://tusharagarwal96.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/about/</guid>
+      <description>Biography Hello! I&amp;rsquo;m Tushar
+I am a Graduate Student in the Department of Mechanical Engineering at IIT Kanpur. Currently, I am developing a 500 CC methanol-fueled motorcycle at Engine Research Laboratory, under the guidance of Prof. Avinash K. Agarwal. Apart from academic engagements, I love traveling, photography and tinkering in my free time to build cool projects.</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://tusharagarwal96.github.io/home/experience/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://tusharagarwal96.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://tusharagarwal96.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>https://tusharagarwal96.github.io/home/photography/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://tusharagarwal96.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

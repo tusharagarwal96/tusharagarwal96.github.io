@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tushar Agarwal</title>
+    <link>https://tusharagarwal96.github.io/projects/</link>
+    <description>Recent content in Projects on Tushar Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jul 2017 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://tusharagarwal96.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of 500cc methanol fueled motorcycle</title>
+      <link>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</guid>
+      <description>August 2017 - Present
+Project Supervisor: Prof. Avinash Kumar Agarwal
+Our project aims to convert a Gasoline based 4-Stroke SI engine to a M85 (85% v/v methanol and 15% v/v gasoline) based SI engine and develop an M85 fueled motorcycle prototype. Methanol as a fuel, provides higher Octane number, lower Hydrocarbon and NOx emissions leading to a cleaner environment and higher fuel efficiency than petroleum-based gasoline making it a significantly environment friendly fuel.</description>
+    </item>
+    
+    <item>
+      <title>Formula SAE</title>
+      <link>https://tusharagarwal96.github.io/projects/formula-sae/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/formula-sae/</guid>
+      <description>January 2016 - may 2017
+Project Supervisor: Prof. Santanu De
+Formula SAE is an international student design competition sponsored by the Society of Automotive Engineers. The program simulates real-world engineering design projects and related challenges with the goal of developing and building a small Formula-style race car. Teams from countries around the world compete in static and dynamic events.
+I extensively worked on the Powertrain Electronics of the car to improve lap timing and engine response.</description>
+    </item>
+    
+    <item>
+      <title>Baja SAE</title>
+      <link>https://tusharagarwal96.github.io/projects/baja-sae/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/baja-sae/</guid>
+      <description>January 2015 - January 2016
+Project Supervisor: Prof. Avinash Kumar Agarwal
+Baja SAE is an All Terrain Vehicle design competition held under the banner of SAE International. It encourages teams of students from universities all over the world to design and build small off-road vehicles adhering strictly to rules. The cars all have engines of the same specifications, an unmodified Briggs &amp;amp; Stratton Model 19 Vangaurd engine single-cylinder with a displacement of 305cc and power output of approximately 10 bhp (7.</description>
+    </item>
+    
+    <item>
+      <title>Multi- Robot System for Bomb Disposal</title>
+      <link>https://tusharagarwal96.github.io/projects/boeing/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/boeing/</guid>
+      <description>July 2016 - May 2017
+Project Supervisor: Prof. Shantanu Bhattacharya
+Aerial and ground robots together form a ‘symbiotic’ relationship in which they help overcome each others limitations and leverage their capabilities. Although research has made steady progress over the years on this, most of the work is limited to laboratory settings and is not sufficient for real world challenges.
+In this project, we are building a multi- robot autonomus system that is capable of performing operations such as bomb- disposal.</description>
+    </item>
+    
+  </channel>
+</rss>

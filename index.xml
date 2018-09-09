@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tushar Agarwal on Tushar Agarwal</title>
+    <link>https://tusharagarwal96.github.io/</link>
+    <description>Recent content in Tushar Agarwal on Tushar Agarwal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Development of 500cc methanol fueled motorcycle</title>
+      <link>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;August 2017 - Present&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~akag/&#34;  target=&#34;_blank&#34;&gt;Prof. Avinash Kumar Agarwal&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+Our project aims to convert a Gasoline based 4-Stroke SI engine to a M85 (85% v/v methanol and 15% v/v gasoline) based SI engine and develop an M85 fueled motorcycle prototype. Methanol as a fuel, provides higher Octane number, lower Hydrocarbon and NOx emissions leading to a cleaner environment and higher fuel efficiency than petroleum-based gasoline making it a significantly environment friendly fuel.&lt;/p&gt;
+
+&lt;p&gt;Methanol is a single component fuel produced from low value biomass, MSW and high ash coal. The engine needs significant adaption, hardware modifications and ECU calibration to operate on this new fuel. The first vehicle prototype in India, working on methanol-based fuel is developed in this project, which is a potent step in the direction of adaption of “Methanol Economy” in the country.&lt;/p&gt;
+
+&lt;p&gt;The experiments were conducted on Royal Enfield classic 500cc motorcycle engine and the stock ECU of the motorcycle was replaced by the open ECU along with methanol compatible fuel injection equipment. • The use of open ECU allowed the control over various fuel injection parameters of the engine such as injection time, injection duration, spark advance etc., which control the engine performance and emission.Base fuel maps were created for the open ECU using the combustion data and the stock ECU by reverse engineering. New fuel maps for M85 were created using these base maps as a reference and maximizing the torque for M85 fueling at different engine load-speed combination.The fuel maps were fine-tuned by minimizing the emissions.&lt;/p&gt;
+
+&lt;p&gt;Demonstration of a methanol fueled motorcycle has opened up a whole new sector of Indian automobile industry to reduce high dependence on conventional fossil fuels. Moreover, this technology requires manageable modifications in existing engine hardware and software. Royal Enfield (Eicher Motors) and Hero MotoCorp are the industrial partners for this project and hopefully the prototype will be further developed by these companies for commercial implementation.&lt;/p&gt;
+
+&lt;p&gt;&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Supply Chain Internship</title>
+      <link>https://tusharagarwal96.github.io/experience/hindustan-unilever-limited/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/experience/hindustan-unilever-limited/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;Hindustan Unilever Limited&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;May 2017 - July 2017&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+I completed my summer internship at Pondy Tea Factory, Puducherry under the mentorship of &lt;a href=&#34;https://www.linkedin.com/in/bn-gohokar-b5b87751/&#34;  target=&#34;_blank&#34;&gt;B. N. Gohokar&lt;/a&gt;. My project primarily aimed at minimizing Tea dust by 30% of the current level escaping through various Tea handling and packing activities from Blending to Packing. Apart from that, I was involved in various other activities like beyond work safety assessment, software training for employees, career counseling workshop for children, voluntary work at Prabhat, etc.
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1Qbm7JhqsuNcz-T5Xm3AoJ8XuSHvLB4ZU/view?usp=sharing&#34;  target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IITK Motorsports</title>
+      <link>https://tusharagarwal96.github.io/photography/iitkms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/photography/iitkms/</guid>
+      <description>&lt;figure&gt;
+
+&lt;img src=&#34;https://tusharagarwal96.github.io/img/tushardp.jpeg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Caption&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formula SAE</title>
+      <link>https://tusharagarwal96.github.io/projects/formula-sae/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/formula-sae/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;January 2016 - may 2017&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~sde/&#34;  target=&#34;_blank&#34;&gt;Prof. Santanu De&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+Formula SAE is an international student design competition sponsored by the Society of Automotive Engineers. The program simulates real-world engineering design projects and related challenges with the goal of developing and building a small Formula-style race car. Teams from countries around the world compete in static and dynamic events.&lt;/p&gt;
+
+&lt;p&gt;I extensively worked on the Powertrain Electronics of the car to improve lap timing and engine response. I initiated and lead a new subsystem to implement driver interface electronics; dash and steering wheel electronics, automatic gear shifter and actuation.&lt;/p&gt;
+
+&lt;p&gt;During my tenure I was also the Vice Captain for the team, leading a 3-tier team of 50 students to design and fabricate an FSAE vehicle. I delegated and administered the overall design process by supervising work on different subsystems. I was also responsible for various tasks pertaining to Public Relations, Marketing, Logistics, and Team building activities
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://www.iitk.ac.in/ame/sae/&#34;  target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/12zgSGo8I4BD69Kjoy2vM0IyJAOJ2jk4v/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Asistant</title>
+      <link>https://tusharagarwal96.github.io/experience/iit-kanpur-ta/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/experience/iit-kanpur-ta/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;Indian Institute of Technology Kanpur&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;August 2018 - Present&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+I am currently teaching assistant for the Course &amp;ldquo;Introduction to IC engines&amp;rdquo;, taught by Prof. Avinash K. Agarwal. My work involves preparing course material, assignment and quizzes.
+&lt;/font&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Baja SAE</title>
+      <link>https://tusharagarwal96.github.io/projects/baja-sae/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/baja-sae/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;January 2015 - January 2016&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~akag/&#34;  target=&#34;_blank&#34;&gt;Prof. Avinash Kumar Agarwal&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+Baja SAE is an All Terrain Vehicle design competition held under the banner of SAE International. It encourages teams of students from universities all over the world to design and build small off-road vehicles adhering strictly to rules. The cars all have engines of the same specifications, an unmodified Briggs &amp;amp; Stratton Model 19 Vangaurd engine single-cylinder with a displacement of 305cc and power output of approximately 10 bhp (7.5 kW). The goal in Baja SAE racing is to design, build and race off-road vehicles that can withstand the harshest elements of rough terrain.&lt;/p&gt;
+
+&lt;p&gt;During my tenure I was also the powertrain lead for the team. I planned goals and strategy of 5 members team in the design, manufacturing &amp;amp; assembly of drivetrain of ATV. During this season for the first time we used unconventional manufacturing techniques like sheet metal knuckle, carbon fibre suspension links, etc. We designed and fabricated a light weight two stage reduction gearbox (5.1 Kg) to replace OEM transaxle (14.3 Kg).&lt;/p&gt;
+
+&lt;p&gt;We achieved 4th in acceleration, 4th in maneuverability and 5th in design among 44 teams in BSI 2016
+And were awarded with Best Tech-Ready Team award in BSI 2016, held at Buddh International Circuit, Noida
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://www.iitk.ac.in/ame/sae/&#34;  target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1U0gqBA22-hRFf66nnt0YrukLcvKgYWAf/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi- Robot System for Bomb Disposal</title>
+      <link>https://tusharagarwal96.github.io/projects/boeing/</link>
+      <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/projects/boeing/</guid>
+      <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;July 2016 - May 2017&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~bhattacs/&#34;  target=&#34;_blank&#34;&gt;Prof. Shantanu Bhattacharya&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
+Aerial and ground robots together form a ‘symbiotic’ relationship in which they help overcome each others limitations and leverage their capabilities. Although research has made steady progress over the years on this, most of the work is limited to laboratory settings and is not sufficient for real world challenges.&lt;/p&gt;
+
+&lt;p&gt;In this project, we are building a multi- robot autonomus system that is capable of performing operations such as bomb- disposal. Considering the severity of the challenges, we are presently focusing our problem for indoor environments.&lt;/p&gt;
+
+&lt;p&gt;My work primary involves mechanical design and fabrication of bots and electro-mechanical system integration of robots by configuring micro controllers, actuators and sensors such as LIDAR, Kinect, rotary encoders etc.
+&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1R0J8IJP4l_r46lvqtU-8sZuvGFvzadBU/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;View Poster  &lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;a href=&#34;http://www.iitk.ac.in/dord/boeing/public/&#34; target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
+&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://tusharagarwal96.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
+&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
+&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
+&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
+&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Ocean&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dark&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Default&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Coffee theme with Playfair font&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;1950s&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
+&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
+&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
+&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
+&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
+
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;cd My_Website
+git submodule update --init --recursive
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
+
+&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
+
+&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
+
+&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
+
+&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
+
+&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
