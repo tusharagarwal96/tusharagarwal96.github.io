@@ -53,27 +53,6 @@ I completed my summer internship at Pondy Tea Factory, Puducherry under the ment
     </item>
     
     <item>
-      <title>IITK Motorsports</title>
-      <link>https://tusharagarwal96.github.io/photography/iitkms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tusharagarwal96.github.io/photography/iitkms/</guid>
-      <description>&lt;figure&gt;
-
-&lt;img src=&#34;https://tusharagarwal96.github.io/img/tushardp.jpeg&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Formula SAE</title>
       <link>https://tusharagarwal96.github.io/projects/formula-sae/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
@@ -356,6 +335,188 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monuments and Architecture</title>
+      <link>https://tusharagarwal96.github.io/photography/monuments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/photography/monuments/</guid>
+      <description>
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Taj Mahal, Agra&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/taj.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/taj.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Tathagata Tsal&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/tsal.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/tsal.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;St. Philomena&amp;#39;s Cathedral, Mysore&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/church.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/church.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Indian Institue of Science, banglore&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/iisc.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/iisc.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Mysore Palace&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/mysorepalace.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/mysorepalace.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;St. Joseph&amp;#39;s School, Darjeeling&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/school.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/school.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A temple in Mahabalipuram&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/mahabalipuram.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/mahabalipuram.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Mysore Palace&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/monuments/palace.JPG&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/monuments/palace.JPG&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motorsports</title>
+      <link>https://tusharagarwal96.github.io/photography/iitkms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tusharagarwal96.github.io/photography/iitkms/</guid>
+      <description>
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;B16 at Buddh International Circuit&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/b15.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/b15.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;F18 at Airstrip, IIT Kanpur&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/f18.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/f18.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;B16 and F16 face to face :p&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/b16&amp;amp;f16.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/b16&amp;amp;f16.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Custom two step reduction gearbox used in B16&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/gearbox.JPG&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/gearbox.JPG&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;F18 at Kari Motor Speedway during Formula Bharat 2018&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/f18@kms.jpeg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/f18@kms.jpeg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;F18 CAD poster&#34; href=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/poster.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://tusharagarwal96.github.io/img/photography/motorsports/poster.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
 </description>
     </item>
     
