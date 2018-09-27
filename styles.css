@@ -28,7 +28,7 @@ html {
   font-family: 'Merriweather', sans-serif;
   font-size: 16px;
   color: rgba(0,0,0,0.8);
-  line-height: 1.65;
+  line-height: 1.6;
 }
 @media screen and (min-width: 62em) {
   html {
@@ -88,23 +88,23 @@ ul, ol, dl {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
-  font-weight: 400;
+  font-weight: 450;
   margin-bottom: .5rem;
-  line-height: 1.25;
+  line-height: 1;
   color: #313131;
   text-rendering: optimizeLegibility;
   overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.9rem;
 }
 h2 {
-  margin-top: 1rem;
+  margin-top: 0rem;
   font-size: 1.5rem;
 }
 h3 {
   font-weight: 700;
-  margin-top: 1.5rem;
+  margin-top: 0.75rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
