@@ -11,24 +11,21 @@
     
     <item>
       <title>Development of 500cc methanol fueled motorcycle</title>
-      <link>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</link>
+      <link>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle/</link>
       <pubDate>Sat, 15 Jul 2017 00:00:00 +0530</pubDate>
       
-      <guid>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle.1/</guid>
+      <guid>https://tusharagarwal96.github.io/projects/development-of-500cc-methanol-fueled-motorcycle/</guid>
       <description>&lt;p&gt;&lt;i&gt;&lt;small&gt;August 2017 - Present&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~akag/&#34;  target=&#34;_blank&#34;&gt;Prof. Avinash Kumar Agarwal&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-Our project aims to convert a Gasoline based 4-Stroke SI engine to a M85 (85% v/v methanol and 15% v/v gasoline) based SI engine and develop an M85 fueled motorcycle prototype. Methanol as a fuel, provides higher Octane number, lower Hydrocarbon and NOx emissions leading to a cleaner environment and higher fuel efficiency than petroleum-based gasoline making it a significantly environment friendly fuel.&lt;/p&gt;
+&lt;p&gt;Our project aims to convert a Gasoline based 4-Stroke SI engine to an M85 (85% v/v methanol and 15% v/v gasoline) based SI engine and develop an M85 fueled motorcycle prototype. Methanol as a fuel, provides higher Octane number, lower Hydrocarbon and NOx emissions leading to a cleaner environment and higher fuel efficiency than petroleum-based gasoline making it a significantly environment-friendly fuel.&lt;/p&gt;
 
-&lt;p&gt;Methanol is a single component fuel produced from low value biomass, MSW and high ash coal. The engine needs significant adaption, hardware modifications and ECU calibration to operate on this new fuel. The first vehicle prototype in India, working on methanol-based fuel is developed in this project, which is a potent step in the direction of adaption of “Methanol Economy” in the country.&lt;/p&gt;
+&lt;p&gt;Methanol is a single component fuel produced from low-value biomass, MSW and high ash coal. The engine needs significant adaption, hardware modifications, and ECU calibration to operate on this new fuel. The first vehicle prototype in India, working on methanol-based fuel is developed in this project, which is a potent step in the direction of adaption of “Methanol Economy” in the country.&lt;/p&gt;
 
-&lt;p&gt;The experiments were conducted on Royal Enfield classic 500cc motorcycle engine and the stock ECU of the motorcycle was replaced by the open ECU along with methanol compatible fuel injection equipment. • The use of open ECU allowed the control over various fuel injection parameters of the engine such as injection time, injection duration, spark advance etc., which control the engine performance and emission.Base fuel maps were created for the open ECU using the combustion data and the stock ECU by reverse engineering. New fuel maps for M85 were created using these base maps as a reference and maximizing the torque for M85 fueling at different engine load-speed combination.The fuel maps were fine-tuned by minimizing the emissions.&lt;/p&gt;
+&lt;p&gt;The experiments were conducted on Royal Enfield classic 500cc motorcycle engine, and the open ECU replaced the stock ECU of the motorcycle along with methanol compatible fuel injection equipment. • The use of open ECU allowed the control over various fuel injection parameters of the engine such as injection time, injection duration, spark advance, etc., which control the engine performance and emission. Base fuel maps were created for the open ECU using the combustion data and the stock ECU by reverse engineering. New fuel maps for M85 were created using these base maps as a reference and maximizing the torque for M85 fueling at different engine load-speed combination. The fuel maps were fine-tuned by minimizing the emissions.&lt;/p&gt;
 
-&lt;p&gt;Demonstration of a methanol fueled motorcycle has opened up a whole new sector of Indian automobile industry to reduce high dependence on conventional fossil fuels. Moreover, this technology requires manageable modifications in existing engine hardware and software. Royal Enfield (Eicher Motors) and Hero MotoCorp are the industrial partners for this project and hopefully the prototype will be further developed by these companies for commercial implementation.&lt;/p&gt;
-
-&lt;p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Demonstration of a methanol-fueled motorcycle has opened up a whole new sector of the Indian automobile industry to reduce high dependence on conventional fossil fuels. Moreover, this technology requires manageable modifications in existing engine hardware and software. Royal Enfield (Eicher Motors) and Hero MotoCorp are the industrial partners for this project, and hopefully, the prototype will be further developed by these companies for commercial implementation.&lt;/p&gt;
 </description>
     </item>
     
@@ -42,13 +39,11 @@ Our project aims to convert a Gasoline based 4-Stroke SI engine to a M85 (85% v/
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;May 2017 - July 2017&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-I completed my summer internship at Pondy Tea Factory, Puducherry under the mentorship of &lt;a href=&#34;https://www.linkedin.com/in/bn-gohokar-b5b87751/&#34;  target=&#34;_blank&#34;&gt;B. N. Gohokar&lt;/a&gt;. My project primarily aimed at minimizing Tea dust by 30% of the current level escaping through various Tea handling and packing activities from Blending to Packing. Apart from that, I was involved in various other activities like beyond work safety assessment, software training for employees, career counseling workshop for children, voluntary work at Prabhat, etc.
-&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;I completed my summer internship at Pondy Tea Factory, Puducherry under the mentorship of &lt;a href=&#34;https://www.linkedin.com/in/bn-gohokar-b5b87751/&#34;  target=&#34;_blank&#34;&gt;Mr. B N Gohokar&lt;/a&gt;. My project primarily aimed at minimizing Tea dust by 30% of the current level escaping through various Tea handling and packing activities from Blending to Packing. Apart from that, I was involved in various other activities like beyond work safety assessment, software training for employees, career counseling workshop for children, voluntary work at Prabhat, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;p&gt;&lt;u&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1Qbm7JhqsuNcz-T5Xm3AoJ8XuSHvLB4ZU/view?usp=sharing&#34;  target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -62,20 +57,18 @@ I completed my summer internship at Pondy Tea Factory, Puducherry under the ment
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~sde/&#34;  target=&#34;_blank&#34;&gt;Prof. Santanu De&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-Formula SAE is an international student design competition sponsored by the Society of Automotive Engineers. The program simulates real-world engineering design projects and related challenges with the goal of developing and building a small Formula-style race car. Teams from countries around the world compete in static and dynamic events.&lt;/p&gt;
+&lt;p&gt;Formula SAE is an international student design competition sponsored by the Society of Automotive Engineers. The program simulates real-world engineering design projects and related challenges with the goal of developing and building a small Formula-style race car. Teams from countries around the world compete in static and dynamic events.&lt;/p&gt;
 
 &lt;p&gt;I extensively worked on the Powertrain Electronics of the car to improve lap timing and engine response. I initiated and lead a new subsystem to implement driver interface electronics; dash and steering wheel electronics, automatic gear shifter and actuation.&lt;/p&gt;
 
-&lt;p&gt;During my tenure I was also the Vice Captain for the team, leading a 3-tier team of 50 students to design and fabricate an FSAE vehicle. I delegated and administered the overall design process by supervising work on different subsystems. I was also responsible for various tasks pertaining to Public Relations, Marketing, Logistics, and Team building activities
-&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;During my tenure I was also the Vice Captain for the team, leading a 3-tier team of 50 students to design and fabricate an FSAE vehicle. I delegated and administered the overall design process by supervising work on different subsystems. I was also responsible for various tasks pertaining to Public Relations, Marketing, Logistics, and Team building activities&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;p&gt;&lt;u&gt;
 &lt;a href=&#34;https://www.iitk.ac.in/ame/sae/&#34;  target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
-&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;u&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/12zgSGo8I4BD69Kjoy2vM0IyJAOJ2jk4v/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -89,9 +82,7 @@ Formula SAE is an international student design competition sponsored by the Soci
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;August 2018 - Present&lt;/small&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-I am currently teaching assistant for the Course &amp;ldquo;Introduction to IC engines&amp;rdquo;, taught by Prof. Avinash K. Agarwal. My work involves preparing course material, assignment and quizzes.
-&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;I am currently teaching assistant for the Course &amp;ldquo;Introduction to IC engines,&amp;rdquo; taught by Prof. Avinash K. Agarwal. My work involves preparing course material, assignment, and quizzes.&lt;/p&gt;
 </description>
     </item>
     
@@ -105,21 +96,20 @@ I am currently teaching assistant for the Course &amp;ldquo;Introduction to IC e
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~akag/&#34;  target=&#34;_blank&#34;&gt;Prof. Avinash Kumar Agarwal&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-Baja SAE is an All Terrain Vehicle design competition held under the banner of SAE International. It encourages teams of students from universities all over the world to design and build small off-road vehicles adhering strictly to rules. The cars all have engines of the same specifications, an unmodified Briggs &amp;amp; Stratton Model 19 Vangaurd engine single-cylinder with a displacement of 305cc and power output of approximately 10 bhp (7.5 kW). The goal in Baja SAE racing is to design, build and race off-road vehicles that can withstand the harshest elements of rough terrain.&lt;/p&gt;
+&lt;p&gt;Baja SAE is an All Terrain Vehicle design competition held under the banner of SAE International. It encourages teams of students from universities all over the world to design and build small off-road vehicles adhering strictly to rules.&lt;/p&gt;
 
-&lt;p&gt;During my tenure I was also the powertrain lead for the team. I planned goals and strategy of 5 members team in the design, manufacturing &amp;amp; assembly of drivetrain of ATV. During this season for the first time we used unconventional manufacturing techniques like sheet metal knuckle, carbon fibre suspension links, etc. We designed and fabricated a light weight two stage reduction gearbox (5.1 Kg) to replace OEM transaxle (14.3 Kg).&lt;/p&gt;
+&lt;p&gt;The cars all have engines of the same specifications, an unmodified Briggs &amp;amp; Stratton Model 19 Vanguard engine single-cylinder with a displacement of 305cc and power output of approximately 10 bhp (7.5 kW). The goal in Baja SAE racing is to design, build and race off-road vehicles that can withstand the harshest elements of rough terrain.&lt;/p&gt;
 
-&lt;p&gt;We achieved 4th in acceleration, 4th in maneuverability and 5th in design among 44 teams in BSI 2016
-And were awarded with Best Tech-Ready Team award in BSI 2016, held at Buddh International Circuit, Noida
-&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;During my tenure, I was also the powertrain lead for the team. I planned goals and strategy of 5 members team in the design, manufacturing &amp;amp; assembly of the drivetrain of ATV. During this season for the first time, we used unconventional manufacturing techniques like sheet metal knuckle, carbon fibre suspension links, etc. We designed and fabricated a lightweight two-stage reduction gearbox (5.1 Kg) to replace OEM transaxle (14.3 Kg).&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;p&gt;We achieved 4th in acceleration, 4th in maneuverability and 5th in design among 44 teams in BSI 2016 And were awarded with Best Tech-Ready Team award in BSI 2016, held at Buddh International Circuit, Noida&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;
 &lt;a href=&#34;https://www.iitk.ac.in/ame/sae/&#34;  target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
-&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;u&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1U0gqBA22-hRFf66nnt0YrukLcvKgYWAf/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Project Report&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -133,20 +123,18 @@ And were awarded with Best Tech-Ready Team award in BSI 2016, held at Buddh Inte
 
 &lt;p&gt;&lt;i&gt;&lt;small&gt;Project Supervisor:&lt;/i&gt; &lt;a href=&#34;http://home.iitk.ac.in/~bhattacs/&#34;  target=&#34;_blank&#34;&gt;Prof. Shantanu Bhattacharya&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;
-Aerial and ground robots together form a ‘symbiotic’ relationship in which they help overcome each others limitations and leverage their capabilities. Although research has made steady progress over the years on this, most of the work is limited to laboratory settings and is not sufficient for real world challenges.&lt;/p&gt;
+&lt;p&gt;Aerial and ground robots together form a ‘symbiotic’ relationship in which they help overcome each other&amp;rsquo;s limitations and leverage their capabilities. Although research has made steady progress over the years on this, most of the work is limited to laboratory settings and is not sufficient for real-world challenges.&lt;/p&gt;
 
-&lt;p&gt;In this project, we are building a multi- robot autonomus system that is capable of performing operations such as bomb- disposal. Considering the severity of the challenges, we are presently focusing our problem for indoor environments.&lt;/p&gt;
+&lt;p&gt;In this project, we are building a multi-robot autonomous system that is capable of performing operations such as bomb- disposal. Considering the severity of the challenges, we are presently focusing our problem for indoor environments.&lt;/p&gt;
 
-&lt;p&gt;My work primary involves mechanical design and fabrication of bots and electro-mechanical system integration of robots by configuring micro controllers, actuators and sensors such as LIDAR, Kinect, rotary encoders etc.
-&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;My work primarily involves mechanical design and fabrication of bots and electro-mechanical system integration of robots by configuring microcontrollers, actuators, and sensors such as LIDAR, Kinect, rotary encoders, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;p&gt;&lt;u&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1R0J8IJP4l_r46lvqtU-8sZuvGFvzadBU/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;View Poster  &lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&amp;emsp;&amp;emsp;
-&lt;font size=&#34;4&#34;&gt;&lt;u&gt;
+&lt;/u&gt;&amp;emsp;&amp;emsp;
+&lt;u&gt;
 &lt;a href=&#34;http://www.iitk.ac.in/dord/boeing/public/&#34; target=&#34;_blank&#34;&gt;Visit Website&lt;/a&gt;
-&lt;/font&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;/u&gt;&lt;/p&gt;
 </description>
     </item>
     
