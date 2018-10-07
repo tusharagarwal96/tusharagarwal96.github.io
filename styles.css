@@ -42,7 +42,7 @@ body {
   line-height: inherit;
   color: inherit;
   background-color: #fff;
-  margin-top: 35px; /* Offset body content by navbar height. */
+  margin-top: 3.2rem; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
 }
@@ -98,6 +98,7 @@ h1, h2, h3, h4, h5, h6 {
   overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
 }
 h1 {
+  margin-top: 0rem;
   font-size: 1.9rem;
 }
 h2 {
